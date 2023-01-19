@@ -6,11 +6,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="Tuples.fs" />
     <Compile Include="String.fs" />
     <Compile Include="Booleans.fs" />
     <Compile Include="Numbers.fs" />
     <Compile Include="Immutable.fs" />
-    <Compile Include="BasicFunctions.fs"/>
+    <Compile Include="BasicFunctions.fs" />
   </ItemGroup>
 
 </Project>
