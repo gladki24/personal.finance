@@ -1,4 +1,4 @@
-﻿namespace personal.finances.tests
+﻿namespace personal.finance.tests
 
 open NUnit.Framework
 open personal.finance.domain.StructTuples

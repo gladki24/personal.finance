@@ -1,4 +1,4 @@
-﻿namespace personal.finance.test
+﻿namespace personal.finance.tests
 
 open NUnit.Framework
 open personal.finance.domain.String
